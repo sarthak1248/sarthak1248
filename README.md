@@ -1,4 +1,4 @@
-                                                        Hi there 👋  <p> <img alt="GIF" src="link url" style="max-width:100%;" width="250" align="right"></p> 
+                                                        Hi there 👋  [<p> <img alt="GIF" src="link url" style="max-width:100%;" width="250" align="right"></p>]
 
 <!--
 **sarthak1248/sarthak1248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
